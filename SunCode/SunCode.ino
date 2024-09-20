@@ -4,7 +4,7 @@
 #endif
 #define PIN 6  //
 // How many NeoPixels are attached to the Arduino?
-#define NUMPIXELS 12  // Popular NeoPixel ring size
+#define NUMPIXELS 46  // Popular NeoPixel ring size
 Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 #define BETWEEN 5000  // Time (in milliseconds) to pause between pixels
 
